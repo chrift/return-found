@@ -1,0 +1,19 @@
+{
+  "name": "return-found",
+  "version": "1.0.0",
+  "description": "An npm package to return the first truthy value returned from predicate",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "lab -cv"
+  },
+  "dependencies": {
+    "lodash.some": "^4.6.0"
+  },
+  "devDependencies": {
+    "code": "^5.2.0",
+    "lab": "^16.1.0"
+  }
+}
